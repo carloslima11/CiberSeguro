@@ -1,17 +1,17 @@
 # 🛡️ Cyberbullying Support Platform
 
-> Fullstack platform developed to help identify, analyze, and respond to cyberbullying situations — aligned with institutional standards in a PSP context.
+> Fullstack platform developed to help identify, analyze, and respond to cyberbullying situations aligned with institutional standards in a PSP context.
 
 ---
 
 ## 🚀 Features
 
-- 🤖 AI-powered text and image analysis for cyberbullying detection
-- 💬 Intelligent assistant for guidance and support
-- ⚠️ Risk classification system with recommended actions
-- 🗺️ Interactive map with nearby police stations (PSP)
-- 📊 User dashboard with history of analyses and chats
-- 📚 Educational content about cyberbullying
+- 🤖 AI-powered text and image analysis for cyberbullying detection;
+- 💬 Intelligent assistant for guidance and support;
+- ⚠️ Risk classification system with recommended actions;
+- 🗺️ Interactive map with nearby police stations (PSP);
+- 📊 User dashboard with history of analyses and chats;
+- 📚 Educational content about cyberbullying.
 
 ---
 
